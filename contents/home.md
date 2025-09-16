@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Aobo8656](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Aobo8656)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+目前由大连海事大学教授李琦作为本组的指导导师，并由马奥博，郝德森以及董梓铭共同
+设计以压电脉冲推进器为基础的水下打捞机器人。
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: 2844853541@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Aobo Ma: Mecahnical Engineering at Dalian Maritime University, 2022-2026.\
+Desen Hao: Mecahnical Engineering at Dalian Maritime University, 2022-2026.\
+Ziming Dong: Mecahnical Engineering at Dalian Maritime University, 2022-2026.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+cUnderwater salvage robot
 
